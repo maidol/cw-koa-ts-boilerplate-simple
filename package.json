@@ -1,0 +1,19 @@
+{
+  "name": "cw-koa-ts-boilerplate-simple",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/maidol/cw-koa-ts-boilerplate-simple.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/maidol/cw-koa-ts-boilerplate-simple/issues"
+  },
+  "homepage": "https://github.com/maidol/cw-koa-ts-boilerplate-simple#readme"
+}
