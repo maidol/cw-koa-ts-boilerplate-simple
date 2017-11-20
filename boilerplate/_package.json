@@ -1,7 +1,7 @@
 {
-  "name": "koa-ts",
+  "name": "{{name}}",
   "version": "1.2.0",
-  "description": "",
+  "description": "{{description}}",
   "main": "build/app.js",
   "scripts": {
     "start": "node build/app.js",
@@ -15,7 +15,7 @@
     "model": "rimraf src/model/[库名] & sequelize-auto -o \"./src/model/[库名]\" -c \"create_model.json\" -d [库名] -h [数据库主机] -u [用户名] -p [端口] -x [密码] -e mysql -C -z"
   },
   "keywords": [],
-  "author": "",
+  "author": "{{author}}",
   "license": "ISC",
   "dependencies": {
     "amqp": "^0.2.6",
